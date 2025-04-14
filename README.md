@@ -1,7 +1,12 @@
 # 👋 Hi there, I'm Joe Prakash
 
 🚀 **Site Reliability Engineer (SRE) | Cloud • DevOps • Automation**  
-💼 Currently working at Cirium | Passionate about building reliable, secure, and scalable systems.
+💻 I'm a Site Reliability Engineer, passionate about building scalable, secure, and observable infrastructure
+🔄 Love automating things that people say "can't be automated" 😉
+📦 I’ve migrated critical workloads, Docker registries, and CI/CD systems across clouds and clusters
+📈 Obsessed with uptime, logs, metrics, and… fixing things at 3AM without panicking 😅
+🎯 Motto: "Monitor everything. Automate anything. Panic never."
+📉 My Grafana dashboards know me better than my fitness tracker
 
 ---
 
@@ -63,9 +68,24 @@
 ---
 
 ### ✍️ Recent Learnings & Goals
-- Diving deep into **Cloud Security** & **Cost Optimization**
-- Learning **Python** through real-world SRE automation projects
-- Preparing for **Big Tech SRE/DevOps interviews**
+
+🔭 I’m currently working on:
+🧱 Building a resilient EKS cluster setup with full observability
+🐍 Learning Python for writing custom SRE tools and parsing logs like a boss
+<p align="left"> <img src="https://img.shields.io/badge/EKS-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="EKS"/> <img src="https://img.shields.io/badge/Observability-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/GitHub_README-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub README"/> </p>
+  
+🌱 I’m currently exploring:
+🔐 Learning more about cloud security, WAF rules, cost optimization, and zero trust architecture
+💸 Cost Optimization techniques that don’t sacrifice availability
+🧪 Performance Testing & introducing Chaos Engineering the fun (safe) way
+<p align="left"> <img src="https://img.shields.io/badge/Security-FF3E00?style=for-the-badge&logo=datadog&logoColor=white" alt="Security"/> <img src="https://img.shields.io/badge/AWS_WAF-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS WAF"/> <img src="https://img.shields.io/badge/Zero_Trust-000000?style=for-the-badge&logo=verizon&logoColor=white" alt="Zero Trust"/> <img src="https://img.shields.io/badge/Chaos_Engineering-6E40C9?style=for-the-badge&logo=chaosmesh&logoColor=white" alt="Chaos Engineering"/> </p>
+
+💬 Ask me about:
+🔧 Infrastructure as Code (Terraform), Jenkins pipelines, and log observability
+🚨 Real-world incident handling and Root Cause Analysis
+🧩 Debugging the classic: “It worked yesterday...”
+<p align="left"> <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/> <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/> <img src="https://img.shields.io/badge/Logs_and_Metrics-FE7A16?style=for-the-badge&logo=prometheus&logoColor=white" alt="Logs"/> <img src="https://img.shields.io/badge/RCA-005571?style=for-the-badge&logo=elastic&logoColor=white" alt="RCA"/> </p>
+
 
 ---
 
