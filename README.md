@@ -1,12 +1,22 @@
 # 👋 Hi there, I'm Joe Prakash
 
-🚀 **Site Reliability Engineer (SRE) | Cloud • DevOps • Automation**  
-****💻 I'm a Site Reliability Engineer, passionate about building scalable, secure, and observable infrastructure
-****🔄 Love automating things that people say "can't be automated" 😉
-****📦 I’ve migrated critical workloads, Docker registries, and CI/CD systems across clouds and clusters
-****📈 Obsessed with uptime, logs, metrics, and… fixing things at 3AM without panicking 😅
-****🎯 Motto: "Monitor everything. Automate anything. Panic never."
-****📉 My Grafana dashboards know me better than my fitness tracker
+🚀 **Site Reliability Engineer (SRE) | Cloud • DevOps • Automation**
+
+- 💻 I'm a Site Reliability Engineer, passionate about building scalable, secure, and observable infrastructure  
+- 🔄 Love automating things that people say "can't be automated" 😉  
+- 📦 Migrated critical workloads, Docker registries, and CI/CD systems across clouds and clusters  
+- 📈 Obsessed with uptime, logs, metrics, and… fixing things at 3AM without panicking 😅  
+- 🎯 *"Monitor everything. Automate anything. Panic never."*  
+- 📉 My Grafana dashboards know me better than my fitness tracker  
+
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+</p>
+
 
 ---
 
@@ -69,22 +79,32 @@
 
 ### ✍️ Recent Learnings & Goals
 
-🔭 I’m currently working on:
-****🧱 Building a resilient EKS cluster setup with full observability
-****🐍 Learning Python for writing custom SRE tools and parsing logs like a boss
-<p align="left"> <img src="https://img.shields.io/badge/EKS-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="EKS"/> <img src="https://img.shields.io/badge/Observability-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/GitHub_README-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub README"/> </p>
-  
-🌱 I’m currently exploring:
-****🔐 Learning more about cloud security, WAF rules, cost optimization, and zero trust architecture
-****💸 Cost Optimization techniques that don’t sacrifice availability
-****🧪 Performance Testing & introducing Chaos Engineering the fun (safe) way
-<p align="left"> <img src="https://img.shields.io/badge/Security-FF3E00?style=for-the-badge&logo=datadog&logoColor=white" alt="Security"/> <img src="https://img.shields.io/badge/AWS_WAF-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS WAF"/> <img src="https://img.shields.io/badge/Zero_Trust-000000?style=for-the-badge&logo=verizon&logoColor=white" alt="Zero Trust"/> <img src="https://img.shields.io/badge/Chaos_Engineering-6E40C9?style=for-the-badge&logo=chaosmesh&logoColor=white" alt="Chaos Engineering"/> </p>
+🔭 Currently Working On
+🧱 Building a resilient EKS cluster setup with full observability
 
-💬 Ask me about:
-****🔧 Infrastructure as Code (Terraform), Jenkins pipelines, and log observability
-****🚨 Real-world incident handling and Root Cause Analysis
-****🧩 Debugging the classic: “It worked yesterday...”
-<p align="left"> <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/> <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/> <img src="https://img.shields.io/badge/Logs_and_Metrics-FE7A16?style=for-the-badge&logo=prometheus&logoColor=white" alt="Logs"/> <img src="https://img.shields.io/badge/RCA-005571?style=for-the-badge&logo=elastic&logoColor=white" alt="RCA"/> </p>
+🐍 Learning Python for writing custom SRE tools and parsing logs
+
+🎨 Designing a GitHub README that looks better than a dashboard 😄
+
+<img src="https://img.shields.io/badge/EKS-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="EKS"/> <br> <img src="https://img.shields.io/badge/Observability-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"/> <br> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> <br> <img src="https://img.shields.io/badge/GitHub_README-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub README"/>
+  
+🌱 Currently Exploring
+🔐 Diving into cloud security, WAF rule tuning, and Zero Trust architecture
+
+💸 Practicing cost optimization techniques without affecting uptime
+
+🧪 Exploring Performance Testing & Chaos Engineering
+
+<img src="https://img.shields.io/badge/Security-FF3E00?style=for-the-badge&logo=datadog&logoColor=white" alt="Security"/> <br> <img src="https://img.shields.io/badge/AWS_WAF-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS WAF"/> <br> <img src="https://img.shields.io/badge/Zero_Trust-000000?style=for-the-badge&logo=verizon&logoColor=white" alt="Zero Trust"/> <br> <img src="https://img.shields.io/badge/Chaos_Engineering-6E40C9?style=for-the-badge&logo=chaosmesh&logoColor=white" alt="Chaos Engineering"/>
+
+💬 Ask Me About
+🔧 Infra as Code with Terraform, Jenkins pipelines, and log observability
+
+🚨 Real-world incident response, postmortems, and RCA
+
+🧩 Helping teams debug the classic: “It worked yesterday...”
+
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/> <br> <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/> <br> <img src="https://img.shields.io/badge/Logs_and_Metrics-FE7A16?style=for-the-badge&logo=prometheus&logoColor=white" alt="Logs"/> <br> <img src="https://img.shields.io/badge/RCA-005571?style=for-the-badge&logo=elastic&logoColor=white" alt="RCA"/>
 
 
 ---
