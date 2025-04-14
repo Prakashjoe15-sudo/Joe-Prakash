@@ -5,15 +5,45 @@
 
 ---
 
-### 🔧 Tech Stack & Tools
-- **Cloud**: AWS (EC2, S3, EKS, Lambda, CloudWatch, IAM)
-- **Infrastructure as Code**: Terraform, CloudFormation, Helm
-- **Containers & Orchestration**: Docker, Kubernetes (EKS)
-- **CI/CD**: Jenkins, GitHub Actions, ArgoCD
-- **Monitoring & Observability**: Prometheus, Grafana, ELK, Fluentd
-- **Security & Compliance**: AWS WAF, IAM Policies, CVE Fixes, SBOM
-- **Scripting & Automation**: Bash, Python (beginner), SaltStack
-- **Other**: Git, Nexus, JFrog, SonarQube, TeamCity
+### 🚀 Tech Stack & Tools
+
+<p align="left">
+  <!-- Cloud -->
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/EC2-232F3E?style=for-the-badge&logo=amazon-ec2&logoColor=white" alt="EC2"/>
+  <img src="https://img.shields.io/badge/EKS-0052CC?style=for-the-badge&logo=kubernetes&logoColor=white" alt="EKS"/>
+  <img src="https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white" alt="Lambda"/>
+
+  <!-- IaC -->
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
+  <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" alt="Helm"/>
+
+  <!-- CI/CD -->
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
+
+  <!-- Observability -->
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus"/>
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"/>
+  <img src="https://img.shields.io/badge/Fluentd-009688?style=for-the-badge&logo=fluentd&logoColor=white" alt="Fluentd"/>
+
+  <!-- Containers -->
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+
+  <!-- Security -->
+  <img src="https://img.shields.io/badge/AWS%20WAF-000000?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS WAF"/>
+  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" alt="SonarQube"/>
+  
+  <!-- Scripting & Automation -->
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+
+  <!-- Others -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Nexus-0071C5?style=for-the-badge&logo=sonatype&logoColor=white" alt="Nexus"/>
+</p>
+
 
 ---
 
