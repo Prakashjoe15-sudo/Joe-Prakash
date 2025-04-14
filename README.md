@@ -69,6 +69,17 @@
 
 ---
 
-### 💬 Let's Connect
-- 📫 [LinkedIn](https://www.linkedin.com/in/joeprakash/)  
-- 🌐 [Personal Website](https://yourwebsite.dev) *(optional)*  
+### 📫 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/joe-prakash-9a7497288/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/Prakashjoe15-sudo" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://x.com/JoePrak61760702?t=DZFciwOzJ7BubsToiPLUXQ&s=09" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+</p>
+ 
